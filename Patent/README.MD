@@ -9,7 +9,7 @@ This proactive approach empowers parents to respond to potential threats **in re
 ---
 
 ## Key Features
-- **Real-time Detection:** Flex sensor/Venostat detects abnormal touch.
+- **Real-time Detection:** Flex sensor/Velostat detects abnormal touch.
 - **Instant Alerts:** Cloud-based notifications sent to parents or guardians.
 - **Mobile App Integration:** Works with **Blynk** for live monitoring and alerts.
 - **Lightweight & Comfortable:** Designed for toddlers’ comfort.
@@ -38,7 +38,6 @@ This proactive approach empowers parents to respond to potential threats **in re
 - **Title:** Smart Wearable Device for Toddlers  
 - **Patent Number:** 202241031906  
 - **Status:** Registered  
-- [🔗 View Patent Details](https://ipindiaservices.gov.in/publicsearch) <!-- You can replace this with the direct patent link -->
 
 ---
 
@@ -49,14 +48,14 @@ This proactive approach empowers parents to respond to potential threats **in re
 
 ---
 
-## Author
-**Matheshwara**
-📧 Email: matheshwara13@gmail.com / msenthi7@umd.edu  
-🔗 LinkedIn: https://www.linkedin.com/in/math-191231  
-😼 GitHub: https://www.github.com/msenthi7
+## Authors
 
-**Yogeshwar G**
-📧 Email: code.gygshwr@gmail.com
-🔗 LinkedIn: https://www.linkedin.com/in/gygshwr
-😼 GitHub: https://www.github.com/ysh-x
+**Matheshwara**  
+📧 Email: [matheshwara13@gmail.com](mailto:matheshwara13@gmail.com) / [msenthi7@umd.edu](mailto:msenthi7@umd.edu)  
+🔗 LinkedIn: [linkedin.com/in/math-191231](https://www.linkedin.com/in/math-191231)  
+😼 GitHub: [github.com/msenthi7](https://www.github.com/msenthi7)  
 
+**Yogeshwar G**  
+📧 Email: [code.gygshwr@gmail.com](mailto:code.gygshwr@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/gygshwr](https://www.linkedin.com/in/gygshwr)  
+😼 GitHub: [github.com/ysh-x](https://www.github.com/ysh-x)
